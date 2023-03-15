@@ -1,5 +1,5 @@
 import puppeteer from "puppeteer";
-
+//added comment to see if changes are on server also
 const start = async () => {
   // Start a Puppeteer session with:
   // - a visible browser (`headless: false` - easier to debug because you'll see the browser in action)
